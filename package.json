@@ -13,8 +13,8 @@
     "keywords": [],
     "author": "",
     "repository": {
-      "type": "git",
-      "url": "git+https://github.com/Chen-Ze/react-monorepo-test.git"
+        "type": "git",
+        "url": "git+https://github.com/Chen-Ze/react-monorepo-test.git"
     },
     "license": "ISC",
     "devDependencies": {
