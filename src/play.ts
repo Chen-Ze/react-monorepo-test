@@ -1,7 +1,9 @@
-function test(x): number {
+function foo(x: number): number {
     console.log('test called');
     return x + 1;
 }
 
-console.log(test(2));
+export default foo;
+
+console.log(foo(2));
 console.log(1);
